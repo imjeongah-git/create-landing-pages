@@ -1,0 +1,4 @@
+interface:
+  display_name: "행사·사업 랜딩페이지 만들기"
+  short_description: "자료와 참고 사이트를 받아 단계별 카드로 랜딩페이지 제작·수정"
+  default_prompt: "$event-program-landing으로 행사 또는 사업 랜딩페이지를 단계별 카드로 만들어줘."
